@@ -1,11 +1,12 @@
 <h1 align="left">Hi 👋, I'm Gabriel ROULEAU</h1>
+
 <h3 align="left">🎯 Want to make art w/ code 🤹‍♂️ Game dev & shaders</h3>
 
-- 👨‍💻 Portfolio [https://gabrielrouleau.fr/](https://gabrielrouleau.fr/)
+- 🎮 Itch [ckyre.itch.io](https://ckyre.itch.io/)
+
+- 👨‍💻 Portfolio [gabrielrouleau.fr](https://gabrielrouleau.fr/)
 
 - 🐦 Twitter [@Ckyre1](https://twitter.com/Ckyre1)
-
-- 📫 Email [**gabriel.rouleau@mmibordeaux.com**](mailto:gabriel.rouleau@mmibordeaux.com)
 
 <br>
 
