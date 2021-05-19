@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gabriel ROULEAU</h1>
-<h3 align="center">🎯 Want to make art w/ code 🤹‍♂️ Game dev & shaders</h3>
+<h1 align="left">Hi 👋, I'm Gabriel ROULEAU</h1>
+<h3 align="left">🎯 Want to make art w/ code 🤹‍♂️ Game dev & shaders</h3>
 
 - 👨‍💻 Portfolio [https://gabrielrouleau.fr/](https://gabrielrouleau.fr/)
 
