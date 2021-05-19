@@ -5,6 +5,6 @@
 - 🤹‍♂️ Game dev & shaders
 - 🚀 [ckyre.itch.io](https://ckyre.itch.io/)
 
-🐦 [@Ckyre1](https://twitter.com/Ckyre1), 📷 [gabriel.rla](https://www.instagram.com/gabriel.rla/)
+🐦 [@Ckyre1](https://twitter.com/Ckyre1)
 
 [#Unity3D](https://github.com/topics/unity)
